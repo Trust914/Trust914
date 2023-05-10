@@ -67,7 +67,7 @@ As a career-transitioning individual, I have immersed myself in the study and ap
 #
 
 
-### ☎️ Socials
+### 🌐 Socials
 
 
 <p align="left" >
