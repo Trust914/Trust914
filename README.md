@@ -19,9 +19,6 @@ As a career-transitioning individual, I have immersed myself in the study and ap
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Trust914/tools-image/blob/master/ansible%20image.png" width="36" height="36" alt="Ansible" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Trust914/tools-image/blob/master/aws%20image.png" width="38" height="36" alt="AWS cloud"
-
 
 </p>
 
